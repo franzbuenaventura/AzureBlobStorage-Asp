@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobStorage-ASP.Net", "BlobStorage-ASP.Net\BlobStorage-ASP.Net.csproj", "{0C37ACFF-23DF-47D0-8180-46B53DD939A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobStorage-ASPNet", "BlobStorage-ASP.Net\BlobStorage-ASPNet.csproj", "{0C37ACFF-23DF-47D0-8180-46B53DD939A8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobStorage-UnitTest", "UnitTestProject1\BlobStorage-UnitTest.csproj", "{4792FFBF-9EF8-4AE6-A8D7-F9325AF8AD6B}"
 EndProject
